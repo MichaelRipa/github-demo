@@ -92,6 +92,10 @@ export const contributors = [
     githubProfile: 'https://github.com/AmarHakim'
   },
   {
+    name: 'Michael Ripa',
+    githubProfile: 'https://github.com/MichaelRipa'
+  },
+  {
     name: 'Josh Cadieux',
     githubProfile: 'https://github.com/JCadoo2002'
   },
@@ -103,4 +107,6 @@ export const contributors = [
     name: 'Elias Hawa',
     githubProfile: 'https://github.com/EliasJRH'
   }
+   
+  
 ]
